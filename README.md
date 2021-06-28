@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ARj-cyber
 - 👀 I’m interested in Coding , as well as Cars
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me : https://t.me/aRj00tgram
+- 📫 How to reach me : 
 
 <!---
 ARj-cyber/ARj-cyber is a ✨ aRj ✨ repository because its `README.md` (this file) appears on your GitHub profile.
