@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ARj-cyber
+- 👋 Hi, I’m Arjun P Dinesh
 - 👀 I’m interested in Coding , as well as Cars
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on projects
