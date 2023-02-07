@@ -8,11 +8,17 @@
 <img src ="https://img.shields.io/github/followers/ARj-cyber.svg?style=social&label=Follow&maxAge=2592000">
   
 
-- Hi, I’m Arjun P Dinesh
-- I’m interested in Coding , as well as Cars
-- I’m currently learning
-- I’m looking to collaborate on projects
-- Websit : flowcv.me/arj
+```yaml
+name: Arjun P Dinesh
+located_in: Kerala, India
+from: Kannur
+job: Student
+education: ["Bachelor in COmputer application specializzed in Data Science"]
+fields_of_interests: ["Blockchain", "Hardware","Embedded Systems","Linux"]
+currently_learning: ["Web3", "Cloud Computing"]
+will_learn: ["about you 😉"]
+hobbies: ["Music", "Cinema", "Drive"]
+```
 <!---
 ARj-cyber/ARj-cyber is a ✨ aRj ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
