@@ -1,12 +1,10 @@
 <a href = "https://www.linkedin.com/in/arjun-p-dinesh-81022a235/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
+<br>
 <a href = "https://twitter.com/ArjunP99781635">
    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-
-<img src ="https://img.shields.io/github/followers/ARj-cyber.svg?style=social&label=Follow&maxAge=2592000">
-  
 
 ```yaml
 name: Arjun P Dinesh
@@ -19,6 +17,7 @@ currently_learning: ["Web3", "Cloud Computing"]
 will_learn: ["about you 😉"]
 hobbies: ["Music", "Cinema", "Drive"]
 ```
+<img src ="https://img.shields.io/github/followers/ARj-cyber.svg?style=social&label=Follow&maxAge=2592000">
 <!---
 ARj-cyber/ARj-cyber is a ✨ aRj ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
