@@ -17,9 +17,6 @@ currently_learning: ["Web3", "Cloud Computing"]
 will_learn: ["about you 😉"]
 hobbies: ["Music", "Cinema", "Drive"]
 ```
-<a href = "https://inexpensive-bearskin-e10.notion.site/Wheels-and-Thoughts-f2c2e6ef0c9c44c59d71e6c601bd7adb">
-   Notion Writes
-</a>
 <img src ="https://img.shields.io/github/followers/ARj-cyber.svg?style=social&label=Follow&maxAge=2592000">
 <!---
 ARj-cyber/ARj-cyber is a ✨ aRj ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +27,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 <!-- <img src ="https://img.shields.io/badge/Porsche-B12B28?logo=porsche&logoColor=fff&style=for-the-badge"> <br>-->
 
+<a href = "https://inexpensive-bearskin-e10.notion.site/Wheels-and-Thoughts-f2c2e6ef0c9c44c59d71e6c601bd7adb">
+   Notion Writes
+</a>
 <a href = "mailto:arjunpdinesh123@gmail.com?subject=contacting%20via%20github">
    <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 </a>
