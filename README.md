@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
    <img src="https://img.shields.io/badge/Website-Wheels and Thoughts-important"
 </a>
 <a href = "mailto:arjunpdinesh123@gmail.com?subject=contacting%20via%20github">
-   https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
    <br>
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
