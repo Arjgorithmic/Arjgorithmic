@@ -18,14 +18,14 @@ You can click the Preview link to take a look at your changes.
 <img src = "https://github-readme-stats.vercel.app/api?username=ARj-cyber&theme=blue-green/hide_border">
 <br>
 <!-- <img src ="https://img.shields.io/badge/Porsche-B12B28?logo=porsche&logoColor=fff&style=for-the-badge"> <br>-->
-<img src ="https://img.shields.io/github/followers/ARj-cyber.svg?style=social&label=Follow&maxAge=2592000"><br>
+<img src ="https://img.shields.io/github/followers/ARj-cyber.svg?style=social&label=Follow&maxAge=2592000">
 <a href = "https://www.linkedin.com/in/arjun-p-dinesh-81022a235/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
 <br>
 <a href = "https://twitter.com/ArjunP99781635">
    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
+</a><br>
 <a href = "https://inexpensive-bearskin-e10.notion.site/Wheels-and-Thoughts-f2c2e6ef0c9c44c59d71e6c601bd7adb">
    <img src="https://img.shields.io/badge/Website-Wheels and Thoughts-important"
 </a><br>
