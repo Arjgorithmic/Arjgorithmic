@@ -17,7 +17,7 @@ currently_learning: ["Web3", "Cloud Computing"]
 will_learn: ["about you 😉"]
 hobbies: ["Music", "Cinema", "Drive"]
 ```
-[![My Skills](https://skillicons.dev/icons?i=py,r,html,css,js,cpp,mysql,tensorflow,linux,git,github,ngnix,raspberrypi,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,html,css,js,cpp,mysql,tensorflow,linux,git,github,raspberrypi,stackoverflow)](https://skillicons.dev)
 <img src ="https://img.shields.io/github/followers/ARj-cyber.svg?style=social&label=Follow&maxAge=2592000">
 <!---
 ARj-cyber/ARj-cyber is a ✨ aRj ✨ repository because its `README.md` (this file) appears on your GitHub profile.
