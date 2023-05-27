@@ -17,6 +17,9 @@ currently_learning: ["Web3", "Cloud Computing"]
 will_learn: ["about you 😉"]
 hobbies: ["Music", "Cinema", "Drive"]
 ```
+<a href = "https://inexpensive-bearskin-e10.notion.site/Wheels-and-Thoughts-f2c2e6ef0c9c44c59d71e6c601bd7adb">
+   Notion Writes
+</a>
 <img src ="https://img.shields.io/github/followers/ARj-cyber.svg?style=social&label=Follow&maxAge=2592000">
 <!---
 ARj-cyber/ARj-cyber is a ✨ aRj ✨ repository because its `README.md` (this file) appears on your GitHub profile.
