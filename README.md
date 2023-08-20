@@ -1,12 +1,12 @@
 [![My Skills](https://skillicons.dev/icons?i=py,r,html,css,js,cpp,mysql,tensorflow,linux,git,github,raspberrypi,stackoverflow)](https://skillicons.dev)
 ```yaml
 name: Arjun P Dinesh
-located_in: Kerala, India
+located_in: Bangalore, India
 from: Kannur
 job: Student
-education: ["Bachelor in COmputer application specializzed in Data Science"]
+education: ["Master in Science specializzed in AI and Machine Learning"]
 fields_of_interests: ["Blockchain", "Hardware","Embedded Systems","Linux"]
-currently_learning: ["Web3", "Cloud Computing"]
+currently_learning: ["CyberSecurity and AI", "Automobile automation"]
 will_learn: ["about you 😉"]
 hobbies: ["Music", "Cinema", "Drive"]
 ```
