@@ -6,7 +6,7 @@ from: Kannur
 job: Student
 education: ["Master in Science specializzed in AI and Machine Learning"]
 fields_of_interests: ["Blockchain", "Hardware","Embedded Systems","Linux"]
-currently_learning: ["CyberSecurity and AI", "Automobile automation"]
+currently_learning: ["LangChain", "Automobile automation"]
 will_learn: ["about you 😉"]
 hobbies: ["Music", "Cinema", "Drive"]
 ```
