@@ -2,7 +2,7 @@
 ```yaml
 name: Arjun P Dinesh
 located_in: Bangalore, India
-from: Kannur
+from: Kannur,Kerala
 job: Student
 education: ["Master in Science specializzed in AI and Machine Learning"]
 fields_of_interests: ["Blockchain", "Hardware","Embedded Systems","Linux"]
