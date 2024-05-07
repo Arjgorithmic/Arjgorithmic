@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=py,r,html,css,js,cpp,mysql,tensorflow,linux,git,github,raspberrypi,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,html,css,js,cpp,mysql,tensorflow,linux,git,github,raspberrypi,stackoverflow)](https://www.linkedin.com/in/arjun-p-dinesh-81022a235/)
 ```yaml
 name: Arjun P Dinesh
 located_in: Bangalore, India
