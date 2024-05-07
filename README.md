@@ -31,9 +31,9 @@ You can click the Preview link to take a look at your changes.
 <a href = "https://twitter.com/ArjunP99781635">
    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a><br>
-<a href = "https://inexpensive-bearskin-e10.notion.site/Wheels-and-Thoughts-f2c2e6ef0c9c44c59d71e6c601bd7adb">
+<!-- <a href = "https://inexpensive-bearskin-e10.notion.site/Wheels-and-Thoughts-f2c2e6ef0c9c44c59d71e6c601bd7adb">
    <img src="https://img.shields.io/badge/Website-Wheels and Thoughts-important"
-</a><br>
+</a><br> -->
 <a href = "mailto:arjunpdinesh123@gmail.com?subject=contacting%20via%20github">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
