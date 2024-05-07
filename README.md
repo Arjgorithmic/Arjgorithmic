@@ -5,8 +5,8 @@ located_in: Bangalore, India
 from: Kannur,Kerala
 job: Student
 education: ["Master in Science specializzed in AI and Machine Learning"]
-fields_of_interests: ["Blockchain", "Hardware","Embedded Systems","Linux"]
-currently_learning: ["LangChain", "Adveserial Machine Learning"]
+fields_of_interests: ["Artificial Intelligence", "Hardware","Embedded Systems", "Linux"]
+currently_learning: ["Transfer Learning", "LangChain", "Adveserial Machine Learning"]
 will_learn: ["about you 😉"]
 hobbies: ["Music", "Cinema", "Drive"]
 ```
