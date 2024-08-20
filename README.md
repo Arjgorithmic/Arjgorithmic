@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjgorithmic&show_icons=true&locale=en&title_color=ffffff&text_color=c9cacc&icon_color=2b7bbc&bg_color=1d1f21" alt="arjgorithmic" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjgorithmic&" alt="arjgorithmic&title_color=ffffff&text_color=c9cacc&icon_color=2b7bbc&bg_color=1d1f21" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjgorithmic&&title_color=ffffff&text_color=c9cacc&icon_color=2b7bbc&bg_color=1d1f21" alt="arjgorithmic" /></p>
 <br>
 <!-- <img src ="https://img.shields.io/badge/Porsche-B12B28?logo=porsche&logoColor=fff&style=for-the-badge"> <br>-->
 <img src ="https://img.shields.io/github/followers/Arjgorithmic.svg?style=social&label=Follow&maxAge=2592000">
