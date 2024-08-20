@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=ARj-cyber&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=BF20DD&background=2D2D2D&ring=D41CFF&fire=FF0000&currStreakNum=FFF905&currStreakLabel=FFF905&sideNums=FFF905&sideLabels=D3CE04&dates=AFAB03)](https://git.io/streak-stats) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjgorithmic&show_icons=true&locale=en&layout=compact" alt="arjgorithmic" /></p><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjgorithmic&title_color=ffffff&text_color=c9cacc&icon_color=2b7bbc&bg_color=1d1f21&langs_count=3" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjgorithmic&show_icons=true&locale=en" alt="arjgorithmic" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjgorithmic&show_icons=true&locale=en&title_color=ffffff&text_color=c9cacc&icon_color=2b7bbc&bg_color=1d1f21" alt="arjgorithmic" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjgorithmic&" alt="arjgorithmic" /></p>
 <br>
